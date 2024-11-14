@@ -2,16 +2,16 @@
     History App App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Timeline View
+* Historical Events Database
+* Interactive Maps
+* Historical Figures Profiles
 
 # Course Overview
-* Basic React Native Components
-* Database Design using Appwrite
-* User Registration & Authenticaiton
-* Deployment
+* Mesopotamia and the first cities
+* Early innovations in writing, agriculture, and law
+* The Italian Renaissance and the rebirth of art
+* Evaluate how these movements shaped the modern world
 
 # Tech Stack
 * React Native
