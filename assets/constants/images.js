@@ -1,4 +1,4 @@
-import logo from "../logo/capsule.png"
+import logo from "../images/logo.png";
+import imagelogo from "../images/imagelogo.png";
 
-
-export default(logo)
+export default { logo, imagelogo};
