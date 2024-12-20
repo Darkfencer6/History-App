@@ -3,9 +3,9 @@
 
 # Features
 * Share Projects
-* Message other developers
+* friendly Ui
 * Rate others work
-* Search other developers
+* Search other developers and historical heroes
 
 # Course Overview
 * Basic React Native Components
