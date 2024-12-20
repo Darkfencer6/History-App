@@ -2,10 +2,10 @@
     History App App.
 
 # Features
-* Share Projects
+* Time Travel Diaries
 * friendly Ui
-* Rate others work
-* Search other developers and historical heroes
+* History in Your Neighborhood
+* Daily Historical Snapshots
 
 # Course Overview
 * Basic React Native Components
